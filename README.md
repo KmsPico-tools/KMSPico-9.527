@@ -15,7 +15,7 @@ Portable Version: Can run directly from a USB device without installation.
 Reputable Development: Created by Team Daz, known for reliable activation tools.
 Wide Compatibility: Works with various Windows and Office versions.
 How Does KMSPico Work?
-KMSPico emulates a KMS server locally, allowing for offline activation of Windows and Office software. The process is straightforward:
+KMSPico emulates a KMS server locally, allowing for offline activation of Windows and Office software. 
 
 ## Where Can KMSPico Be Downloaded?
 
